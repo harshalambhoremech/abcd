@@ -1,7 +1,7 @@
 package Duplicate;
 
 public class Diplicateletter {
-
+//eclips has good ui
 	public static void main(String[] args) {
 		
 		String  name ="Feeroz";
